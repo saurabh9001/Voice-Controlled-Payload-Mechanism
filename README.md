@@ -89,10 +89,6 @@ A cutting-edge robotic control technology that enables voice-activated payload m
 4. Assemble the hardware components
 5. Test voice commands
 
-## 📝 Project Details
-- **Institution**: Annasaheb Dange College of Engineering & Technology
-- **Department**: Aeronautical Engineering
-- **Academic Year**: 2024-2025
 
 ## 🔧 Installation
 1. Install Arduino IDE
